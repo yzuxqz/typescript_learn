@@ -1,3 +1,3 @@
-#TypeScript Learn
+## TypeScript Learn
 notes to learn TypeScript
-###学习进度
+### 学习进度
