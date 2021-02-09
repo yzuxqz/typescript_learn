@@ -1,6 +1,6 @@
 ## **贪吃蛇练习**
 
-使用TypeScript + Webpack + Less实现贪吃蛇的例子；
+使用TypeScript4 + Webpack + Less实现贪吃蛇的例子；
 
 ### **项目依赖**
 
